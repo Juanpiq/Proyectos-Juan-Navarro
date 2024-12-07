@@ -1,0 +1,20 @@
+﻿@model PTJuanNavarro.Models.LoginClienteViewModel
+
+<h2>Iniciar sesión como Cliente</h2>
+
+<form asp-action="LoginCliente" method="post">
+    <div>
+        <label asp-for="nombre_usuario">Nombre de Usuario:</label>
+        <input asp-for="nombre_usuario" />
+        <span asp-validation-for="nombre_usuario"></span>
+    </div>
+    <div>
+        <label asp-for="password">Contraseña:</label>
+        <input asp-for="password" type="password" />
+        <span asp-validation-for="password"></span>
+    </div>
+    <div>
+        <button type="submit">Iniciar sesión</button>
+        <button type="button" onclick="window.location.href='@Url.Action("RegisCliente", "Cuenta")'">Registrar</button>
+    </div>
+</form>

@@ -1,0 +1,147 @@
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe.config
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.pdb
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.xml
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbprojAssemblyReference.cache
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Form1.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstIniciar.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Resources.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.GenerateResource.cache
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.CoreCompileInputs.cache
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.exe
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.xml
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.pdb
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstDatos.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminIni.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstAsignaturas1.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstAsignaturas2.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstGrupos1.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstGrupos2.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstMatricula.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe.config
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.pdb
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.xml
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbprojAssemblyReference.cache
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Form1.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminCrear.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminEliminar.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminIni.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminMatriculas.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminModificar.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminRegistro.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmContactenos.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstAsignaturas1.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstAsignaturas2.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstDatos.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstGrupos1.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstGrupos2.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstIniciar.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstMatricula.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Resources.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Presentacion.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.PresentacionAplicacion.resources
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.GenerateResource.cache
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.CoreCompileInputs.cache
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.exe
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.xml
+C:\Users\felze\OneDrive\Desktop\Herramientas proy final\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.pdb
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminCrear.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminEliminar.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminMatriculas.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminModificar.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminRegistro.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmContactenos.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Presentacion.resources
+C:\Users\djpab\Downloads\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.PresentacionAplicacion.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe.config
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.pdb
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.xml
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbprojAssemblyReference.cache
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Form1.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminCrear.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminEliminar.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminIni.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminMatriculas.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminModificar.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminRegistro.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmContactenos.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstAsignaturas1.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstAsignaturas2.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstDatos.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstGrupos1.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstGrupos2.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstIniciar.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmEstMatricula.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Resources.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Presentacion.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.PresentacionAplicacion.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.GenerateResource.cache
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.CoreCompileInputs.cache
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.exe
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.xml
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\4. Actividades o Asignaciones\3. Proyectos\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.pdb
+C:\Visual Basic .NET\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe.config
+C:\Visual Basic .NET\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe
+C:\Visual Basic .NET\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.pdb
+C:\Visual Basic .NET\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.xml
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbprojAssemblyReference.cache
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Form1.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminCrear.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminEliminar.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminIni.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminMatriculas.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminModificar.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminRegistro.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmContactenos.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Resources.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Presentacion.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.PresentacionAplicacion.resources
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.GenerateResource.cache
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.CoreCompileInputs.cache
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.exe
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.xml
+C:\Visual Basic .NET\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.pdb
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe.config
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.pdb
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.xml
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbprojAssemblyReference.cache
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Form1.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminCrear.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminEliminar.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminIni.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminMatriculas.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminModificar.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminRegistro.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmContactenos.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Resources.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Presentacion.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.PresentacionAplicacion.resources
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.GenerateResource.cache
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.CoreCompileInputs.cache
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.exe
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.xml
+C:\Users\djpab\Documents\utp\3er año\1er semestre\Herramientas III\SEMESTRAL\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.pdb
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe.config
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.exe
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.pdb
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\bin\Debug\PF_Eq11_Matricula.xml
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbprojAssemblyReference.cache
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Form1.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminCrear.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminEliminar.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminIni.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminMatriculas.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminModificar.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmAdminRegistro.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.frmContactenos.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Resources.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.Presentacion.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.PresentacionAplicacion.resources
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.GenerateResource.cache
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.vbproj.CoreCompileInputs.cache
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.exe
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.xml
+C:\Users\genes\Documents\UTP\III AÑO\Herramientas de Programación III\Vitale_Genesis\PF_Eq11_Matricula\PF_Eq11_Matricula\obj\Debug\PF_Eq11_Matricula.pdb

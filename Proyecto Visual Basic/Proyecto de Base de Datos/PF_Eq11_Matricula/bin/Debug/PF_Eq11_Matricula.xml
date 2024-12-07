@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PF_Eq11_Matricula
+</name>
+</assembly>
+<members>
+<member name="T:PF_Eq11_Matricula.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PF_Eq11_Matricula.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PF_Eq11_Matricula.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:PF_Eq11_Matricula.My.Resources.Resources.logo_utp_1_300">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.AsignaturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.CarreraDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.ComponeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.CursaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.DocenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.EstudianteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.FacultadDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.GrupoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.ImparteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.Telefono_estDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.Telefono_facDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.AsignaturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.CarreraRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.ComponeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.CursaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.DocenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.EstudianteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.FacultadRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.GrupoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.ImparteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.Telefono_estRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.Telefono_facRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.AsignaturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.CarreraRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.ComponeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.CursaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.DocenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.EstudianteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.FacultadRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.GrupoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.ImparteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.Telefono_estRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSet.Telefono_facRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.AsignaturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.CarreraTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.ComponeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.CursaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.DocenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.EstudianteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.FacultadTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.GrupoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.ImparteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.Telefono_estTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.Telefono_facTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PF_Eq11_Matricula.RegistroUTPDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PF_Eq11_Matricula.RegistroUTPDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PF_Eq11_Matricula.RegistroUTPDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.TableAdapterManager.UpdateAll(PF_Eq11_Matricula.RegistroUTPDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:PF_Eq11_Matricula.RegistroUTPDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

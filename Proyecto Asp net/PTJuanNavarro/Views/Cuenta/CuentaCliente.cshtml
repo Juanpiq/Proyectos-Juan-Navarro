@@ -1,0 +1,30 @@
+﻿@model PTJuanNavarro.Models.CuentaClienteViewModel
+
+<h2>Bienvenido @Model.Nombre @Model.Apellido</h2>
+
+<button onclick="location.href='@Url.Action("CrearCotizacion", "Cuenta", new { clienteId = @Model.ClienteId })'">+Cotización</button>
+
+<h3>Tus Cotizaciones</h3>
+<table>
+    <thead>
+        <tr>
+            <th>#Cotización</th>
+            <th>Fecha de Cotización</th>
+            <th>Modelo de Carro</th>
+            <th>Precio de Cotización</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cotizacion in Model.Cotizaciones)
+        {
+            <tr>
+                <td>@cotizacion.Id</td>
+                <td>@cotizacion.FechaCotizacion</td>
+                <td>@cotizacion.ModeloCarro</td>
+                <td>@cotizacion.Precio</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<link rel="stylesheet" href="~/css/cAdmin.css" />

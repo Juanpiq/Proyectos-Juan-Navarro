@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable asbestos
+drawable asma
+drawable bronquitis
+drawable cancer
+drawable enfisema
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable neumonia
+drawable rinosinusitis
+drawable tuberculosis
+id imageVirus
+id listEnf
+id txtDesc
+id txtNombre
+layout activity_main
+layout listview
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Laboratorio5
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,39 @@
+﻿@model PTJuanNavarro.Models.RegisClienteViewModel
+
+<h2>Registrar nuevo Cliente</h2>
+
+<form asp-action="RegisCliente" method="post">
+    <div>
+        <label asp-for="nombre_usuario">Nombre de Usuario:</label>
+        <input asp-for="nombre_usuario" />
+        <span asp-validation-for="nombre_usuario"></span>
+    </div>
+    <div>
+        <label asp-for="nombre">Nombre:</label>
+        <input asp-for="nombre" />
+        <span asp-validation-for="nombre"></span>
+    </div>
+    <div>
+        <label asp-for="apellido">Apellido:</label>
+        <input asp-for="apellido" />
+        <span asp-validation-for="apellido"></span>
+    </div>
+    <div>
+        <label asp-for="email">email:</label>
+        <input asp-for="email" />
+        <span asp-validation-for="email"></span>
+    </div>
+    <div>
+        <label asp-for="telefono">Telefono:</label>
+        <input asp-for="telefono" />
+        <span asp-validation-for="telefono"></span>
+    </div>
+    <div>
+        <label asp-for="password">Contraseña</label>
+        <input asp-for="password" type="password" />
+        <span asp-validation-for="password"></span>
+    </div>
+    <div>
+        <button type="submit">Registrar</button>
+    </div>
+</form>

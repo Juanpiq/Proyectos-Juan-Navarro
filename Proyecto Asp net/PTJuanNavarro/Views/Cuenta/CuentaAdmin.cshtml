@@ -1,0 +1,38 @@
+﻿@model PTJuanNavarro.Models.CuentaAdminViewModel
+
+<h2>Bienvenido @Model.Nombre @Model.Apellido</h2>
+<h3>Lista de Cotizaciones</h3>
+<table>
+    <thead>
+        <tr>
+            <th>ID Cliente</th>
+            <th>Usuario</th>
+            <th># Cotización</th>
+            <th>Fecha de Cotización</th>
+            <th>Modelo del Carro</th>
+            <th>Precio de Cotización</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var clienteCotizacion in Model.ClientesCotizaciones)
+        {
+            bool firstRow = true;
+            foreach (var cotizacion in clienteCotizacion.Cotizaciones)
+            {
+                <tr>
+                    @if (firstRow)
+                    {
+                        <td rowspan="@clienteCotizacion.Cotizaciones.Count">@clienteCotizacion.ClienteId</td>
+                        <td rowspan="@clienteCotizacion.Cotizaciones.Count">@clienteCotizacion.NombreUsuario</td>
+                        firstRow = false;
+                    }
+                    <td>@cotizacion.CotizacionId</td>
+                    <td>@cotizacion.FechaCotizacion</td>
+                    <td>@cotizacion.Modelo</td>
+                    <td>B/.@cotizacion.Precio</td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<link rel="stylesheet" href="~/css/cAdmin.css" />

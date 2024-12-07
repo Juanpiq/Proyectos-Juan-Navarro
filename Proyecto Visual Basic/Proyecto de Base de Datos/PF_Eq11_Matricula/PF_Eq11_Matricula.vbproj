@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E5A821AC-271D-4924-B9D7-24CA3D1BAD6E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PF_Eq11_Matricula.My.MyApplication</StartupObject>
+    <RootNamespace>PF_Eq11_Matricula</RootNamespace>
+    <AssemblyName>PF_Eq11_Matricula</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PF_Eq11_Matricula.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PF_Eq11_Matricula.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminCrear.Designer.vb">
+      <DependentUpon>frmAdminCrear.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminCrear.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminEliminar.Designer.vb">
+      <DependentUpon>frmAdminEliminar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminEliminar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminIni.Designer.vb">
+      <DependentUpon>frmAdminIni.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminIni.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminMatriculas.Designer.vb">
+      <DependentUpon>frmAdminMatriculas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminMatriculas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminModificar.Designer.vb">
+      <DependentUpon>frmAdminModificar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminModificar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminRegistro.Designer.vb">
+      <DependentUpon>frmAdminRegistro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminRegistro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContactenos.Designer.vb">
+      <DependentUpon>frmContactenos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmContactenos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Presentacion.Designer.vb">
+      <DependentUpon>Presentacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentacionAplicacion.Designer.vb">
+      <DependentUpon>PresentacionAplicacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PresentacionAplicacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroUTPDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RegistroUTPDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminCrear.resx">
+      <DependentUpon>frmAdminCrear.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminEliminar.resx">
+      <DependentUpon>frmAdminEliminar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminIni.resx">
+      <DependentUpon>frmAdminIni.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminMatriculas.resx">
+      <DependentUpon>frmAdminMatriculas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminModificar.resx">
+      <DependentUpon>frmAdminModificar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminRegistro.resx">
+      <DependentUpon>frmAdminRegistro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContactenos.resx">
+      <DependentUpon>frmContactenos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion.resx">
+      <DependentUpon>Presentacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentacionAplicacion.resx">
+      <DependentUpon>PresentacionAplicacion.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="RegistroUTPDataSet.xsc">
+      <DependentUpon>RegistroUTPDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="RegistroUTPDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>RegistroUTPDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="RegistroUTPDataSet.xss">
+      <DependentUpon>RegistroUTPDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\logo_utp_1_300.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

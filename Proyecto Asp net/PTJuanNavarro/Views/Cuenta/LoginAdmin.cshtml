@@ -1,0 +1,32 @@
+﻿@model PTJuanNavarro.Models.LoginAdminViewModel
+
+<h2>Iniciar Sesión como Administrador</h2>
+
+<form asp-action="LoginAdmin" method="post">
+    <div>
+        <label asp-for="nombre_usuario">Nombre de Usuario:</label>
+        <input asp-for="nombre_usuario" />
+        <span asp-validation-for="nombre_usuario"></span>
+    </div>
+    <div>
+        <label asp-for="Password">Contraseña:</label>
+        <input asp-for="Password" type="password" />
+        <span asp-validation-for="Password"></span>
+    </div>
+    <div>
+        <button type="submit">Iniciar Sesion</button>
+        <button type="button" onclick="window.location.href='@Url.Action("RegisAdmin", "Cuenta")'">Registrar</button>
+    </div>
+</form>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div>
+        <ul>
+            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        </ul>
+    </div>
+}
